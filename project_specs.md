@@ -80,9 +80,14 @@ process, or what you learned this unit!
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 
+##Landing Page V1
 <img src='/LandingPageV1.gif' title='Video Demo' width='' alt='Video Demo' />
+
+##Content Page V2
 <img src='/LandingPage+ContentPageV2.gif' title='Video Demo' width='' alt='Video Demo' />
-<img src='/Feature3.gif' title='Video Demo' width='' alt='Video Demo' />
+
+##Features Page V3
+<img src='/FeatureV3.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## License
 
