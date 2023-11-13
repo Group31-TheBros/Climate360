@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background_color_1">#FF4081</color>
+    <color name="background_color_2">#00BCD4</color>
+    <color name="background_color_3">#FFC107</color>
+    <color name="background_color_4">#FF5722</color>
+    <color name="background_color_5">#9C27B0</color>
+    <color name="background_color_6">#2196F3</color>
+    <color name="background_color_7">#4CAF50</color>
+    <color name="background_color_8">#607D8B</color>
+    <color name="background_color_9">#FFEB3B</color>
+    <color name="background_color_10">#795548</color>
 </resources>
