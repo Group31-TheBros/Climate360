@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.climate360"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.climate360"
-        minSdk = 30
-        targetSdk = 33
+        minSdk = 24
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
@@ -39,9 +39,14 @@ dependencies {
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.8.0")
+    implementation("com.loopj.android:android-async-http:1.4.10")
+    implementation("com.google.android.material:material:1.10.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+    implementation("pl.droidsonroids.gif:android-gif-drawable:1.2.28")
+    implementation("com.codepath.libraries:asynchttpclient:2.2.0")
+    implementation("com.github.bumptech.glide:glide:4.12.0")
+
 }
