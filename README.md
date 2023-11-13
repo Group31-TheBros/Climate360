@@ -1,13 +1,15 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 2 - **Team/App Name**
+# AND101 Milestone 2 - **TheBros/Climate360**
 
 Submitted by:
-- **Team Member 1 Name Here**
-- **Team Member 2 Name Here**
-- **etc**
+- **Christian Manzi**
+- **Tyler Mui**
+- **Kazi Sadman**
+- **Kaisel Alcantara**
+- **Donald Witherspoon**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Summary
 
