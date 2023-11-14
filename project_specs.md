@@ -80,9 +80,21 @@ process, or what you learned this unit!
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 
+## Landing Page V1
+
+<img src='/LandingPageV1.gif' title='Video Demo' width='' alt='Video Demo' />
+
+## Content Page V2
+
+<img src='/LandingPage+ContentPageV2.gif' title='Video Demo' width='' alt='Video Demo' />
+
+## Features Page V3
+
+<img src='/FeatureV3.gif' title='Video Demo' width='' alt='Video Demo' />
+
 ## License
 
-Copyright **2023** **Kazi Sadman, Donald Witherspoon, Kaisel Alcantara, Tyler Mui**
+Copyright **2023** **Christian Manzi, Kazi Sadman, Donald Witherspoon, Kaisel Alcantara, Tyler Mui**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
